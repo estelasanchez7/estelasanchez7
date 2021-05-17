@@ -3,11 +3,9 @@
 <a href="https://www.linkedin.com/in/estela-sanchez-valenzuela-programadora-web/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 <br />
 <h2>Sobre mí</h2>
-<!--
-**estelasanchez7/estelasanchez7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -17,4 +15,3 @@ Here are some ideas to get you started:
 - 🤝 También soy Trabajadora Social
 - 🌎 Vivo en Madrid, España
 - 📝 Puedes visitar mi currículum [aquí](https://www.canva.com/design/DAEZA3U9tGs/deR81TlrF0EUjM8Ue3DfEA/view?utm_content=DAEZA3U9tGs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
--->
