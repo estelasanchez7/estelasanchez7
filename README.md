@@ -1,16 +1,20 @@
-### Hi there 👋
+### ¡Buenas! 👋 Soy Estela Sánchez
 
+<a href="https://www.linkedin.com/in/estela-sanchez-valenzuela-programadora-web/">
+  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<br />
+<h2>Sobre mí</h2>
 <!--
 **estelasanchez7/estelasanchez7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💻 He estudiado un bootcamp de 1200h de **Desarrollo Web Full Stack**
+- 💖 ¿Mi pasión? El Front-End
+- 👫 El trabajo en equipo y la formación contínua son dos valores que me caracterizan
+- 🤝 También soy Trabajadora Social
+- 🌎 Vivo en Madrid, España
+- 📝 Puedes visitar mi currículum [aquí](https://www.canva.com/design/DAEZA3U9tGs/deR81TlrF0EUjM8Ue3DfEA/view?utm_content=DAEZA3U9tGs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 -->
