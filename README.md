@@ -6,9 +6,6 @@
 <br />
 <h2>Sobre mí</h2>
 
-
-Here are some ideas to get you started:
-
 - 💻 He estudiado un bootcamp de 1200h de **Desarrollo Web Full Stack**
 - 💖 ¿Mi pasión? El Front-End
 - 👫 El trabajo en equipo y la formación contínua son dos valores que me caracterizan
