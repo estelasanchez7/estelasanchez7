@@ -6,8 +6,8 @@
 <br />
 <h2>Sobre mí</h2>
 
-- 💻 He estudiado un bootcamp de 1200h de **Desarrollo Web Full Stack**
-- 💖 ¿Mi pasión? El Front-End
+- 💻 He estudiado un bootcamp de 1200h de **Desarrollo Web Fullstack**
+- 💖 ¿Mi pasión? El Front-End y el Diseño UX/UI
 - 👫 El trabajo en equipo y la formación contínua son dos valores que me caracterizan
 - 🤝 También soy Trabajadora Social
 - 🌎 Vivo en Madrid, España
