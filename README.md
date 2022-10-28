@@ -1,6 +1,6 @@
 ### ¡Buenas! 👋 Soy Estela Sánchez
 
-<a href="https://www.linkedin.com/in/estela-sanchez-valenzuela-programadora-web/">
+<a href="https://www.linkedin.com/in/estela-sanchez-valenzuela-desarrollador-web/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
