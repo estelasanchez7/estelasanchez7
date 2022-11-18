@@ -11,7 +11,7 @@
 - 👫 El trabajo en equipo y la formación contínua son dos valores que me caracterizan
 - 🤝 También soy Trabajadora Social
 - 🌎 Vivo en Madrid, España
-- 📝 Puedes visitar mi currículum [aquí](https://www.canva.com/design/DAFSRxtlO1o/_fGcIwioFtpWJaphQWSuOw/view?utm_content=DAFSRxtlO1o&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📝 Puedes visitar mi currículum [aquí](https://www.canva.com/design/DAFSTvqAH28/utYsdOi3jhnuatLPUiPlgg/view?utm_content=DAFSTvqAH28&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <h2>Conocimientos</h2>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
