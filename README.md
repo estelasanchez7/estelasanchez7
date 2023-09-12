@@ -1,8 +1,9 @@
 ### ¡Buenas! 👋 Soy Estela Sánchez
 
 <a href="https://www.linkedin.com/in/estela-sanchez-valenzuela-desarrollador-web/">
-  <img align="left" alt="LinkedIN" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/291px-LinkedIn_Logo.svg.png" />
+  <img align="left" alt="LinkedIN" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/291px-LinkedIn_Logo.svg.png" />
 </a>
+</br>
 <h2>Sobre mí</h2>
 
 - 💻 He estudiado un bootcamp de 1120h de **Desarrollo Web Full Stack**
