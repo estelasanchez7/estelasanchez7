@@ -1,7 +1,7 @@
 ### ¡Buenas! 👋 Soy Estela Sánchez
 
 <a href="https://www.linkedin.com/in/estela-sanchez-valenzuela-desarrollador-web/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/291px-LinkedIn_Logo.svg.png" />
 </a>
 <br />
 <h2>Sobre mí</h2>
